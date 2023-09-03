@@ -1,3 +1,6 @@
+import ru.netology.javaqa.FormDate;
+import ru.netology.javaqa.Post;
+
 public class Main {
     public static void main(String[] args) {
         Post post = new Post();
